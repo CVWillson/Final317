@@ -1,0 +1,12 @@
+id,nombre,apellidos
+23,jose,miranda
+25,armando,lios
+31,mercedes,quispe
+32,rafael,aruquipa
+34,rosa,perez
+36,javier,reyes
+40,abigail,loapez
+21,maria,copa
+54,nelson,avalos
+56,miguel,condori
+65,esmeralda,quiroga
