@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_Edk3QHnQEe2TMIUSjntpfA" name="Promedio" dataPackage="_Edk3QXnQEe2TMIUSjntpfA" Server="Localhost 127.0.0.1" FilePath="C:/Users/ASUS GAMER/Desktop/ExamenFinal/Pregunta02/Datos.xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="promedio" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="promedio:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Edk3QXnQEe2TMIUSjntpfA" name="default" dataManager="_Edk3QHnQEe2TMIUSjntpfA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Edk3QnnQEe2TMIUSjntpfA" id="_tFDRoHnPEe2TMIUSjntpfA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Edk3Q3nQEe2TMIUSjntpfA" label="id" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Edk3RHnQEe2TMIUSjntpfA" label="nombre" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Edk3RXnQEe2TMIUSjntpfA" label="coddepto" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Edk3RnnQEe2TMIUSjntpfA" label="promedio" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

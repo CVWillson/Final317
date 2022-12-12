@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_xu3S4HiyEe2YGdKvt9qPdg" name="Alumno" dataPackage="_xvJmwHiyEe2YGdKvt9qPdg" Server="Localhost 127.0.0.1" FilePath="C:/Users/ASUS GAMER/Desktop/ExamenFinal/Pregunta01/alumno.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_xvJmwHiyEe2YGdKvt9qPdg" name="default" dataManager="_xu3S4HiyEe2YGdKvt9qPdg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_xvJmwXiyEe2YGdKvt9qPdg" id="__frpUHiwEe2YGdKvt9qPdg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xvJmwniyEe2YGdKvt9qPdg" label="id" length="2" talendType="id_Integer" key="true" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xvJmw3iyEe2YGdKvt9qPdg" label="nombre" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_xvJmxHiyEe2YGdKvt9qPdg" label="apellidos" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
